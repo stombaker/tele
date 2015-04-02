@@ -80,7 +80,7 @@ class Router {
      * @return array
      */
     public function generateControllerParameters($paramCount, $params, $config) {
-        $requiredCount = count($config);
+        $requiredCount = count($config->required);
         $parameters = [];
         for ($i = 0; $i < $paramCount; $i++) {
             $param = $params[$i];

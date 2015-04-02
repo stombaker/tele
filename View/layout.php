@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8">
         <title>Programme TV</title>
-        <link rel="stylesheet" href="/tele/public/styles/foundation.min.css"/>
+        <link rel="stylesheet" href="/public/styles/foundation.min.css"/>
     </head>
     <body>
         <header>
